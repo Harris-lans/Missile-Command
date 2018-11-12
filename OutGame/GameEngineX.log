@@ -1,0 +1,46 @@
+﻿  City.cpp
+  COGArmory.cpp
+  COGBoxShape.cpp
+  COGCircleShape.cpp
+  COGDestroyOnCollisionWith.cpp
+  COGEnemyMissile.cpp
+  COGEnemyMissileLauncher.cpp
+c:\users\haris\downloads\pg12_harish_advanced_oop_a2\game\private\cogenemymissilelauncher.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\haris\downloads\pg12_harish_advanced_oop_a2\game\private\cogenemymissilelauncher.cpp(53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\haris\downloads\pg12_harish_advanced_oop_a2\game\private\cogenemymissilelauncher.cpp(62): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\haris\downloads\pg12_harish_advanced_oop_a2\game\private\cogenemymissilelauncher.cpp(62): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  COGExplode.cpp
+  COGInputReader.cpp
+  COGLineCircleShape.cpp
+  COGLineShape.cpp
+  COGFriendlyMissile.cpp
+  COGPhysics.cpp
+  COGShape.cpp
+  COGSilo.cpp
+  COGTextRenderer.cpp
+c:\users\haris\downloads\pg12_harish_advanced_oop_a2\game\private\cogtextrenderer.cpp(7): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  COGTransform.cpp
+  Component.cpp
+  Explosion.cpp
+  Game.cpp
+c:\users\haris\downloads\pg12_harish_advanced_oop_a2\game\private\game.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\haris\downloads\pg12_harish_advanced_oop_a2\game\private\game.cpp(55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  GameObject.cpp
+  GameObjectHandle.cpp
+  GameObjectInventory.cpp
+  GameObjectManager.cpp
+  InputManager.cpp
+  InputState.cpp
+  Main.cpp
+  Mathf.cpp
+  Missile.cpp
+  Output.cpp
+  Player.cpp
+  Silo.cpp
+  Generating Code...
+EngineXd.lib(Engine.obj) : warning LNK4099: PDB 'EngineX.pdb' was not found with 'EngineXd.lib(Engine.obj)' or at 'C:\Users\haris\Downloads\PG12_Harish_Advanced_OOP_A2\Build\EngineX.pdb'; linking object as if no debug info
+EngineXd.lib(RenderPacket.obj) : warning LNK4099: PDB 'EngineX.pdb' was not found with 'EngineXd.lib(RenderPacket.obj)' or at 'C:\Users\haris\Downloads\PG12_Harish_Advanced_OOP_A2\Build\EngineX.pdb'; linking object as if no debug info
+EngineXd.lib(System.obj) : warning LNK4099: PDB 'EngineX.pdb' was not found with 'EngineXd.lib(System.obj)' or at 'C:\Users\haris\Downloads\PG12_Harish_Advanced_OOP_A2\Build\EngineX.pdb'; linking object as if no debug info
+  GameEngineX.vcxproj -> C:\Users\haris\Downloads\PG12_Harish_Advanced_OOP_A2\Build\GameEngineXd.exe
